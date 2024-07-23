@@ -8,6 +8,23 @@ Hello! I'm a passionate Quality Assurance Testing  with a keen focus on Java and
 
 Testing, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+
+## technologies
+
+- HTML
+- CSS
+- JAVA
+- SQL
+
+
 ## Skills
 
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+
+## hobbies
+- video game
+- read books
+- play basketball
+
+
