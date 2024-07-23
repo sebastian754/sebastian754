@@ -16,8 +16,15 @@ Testing, I am always on the lookout for collaborative projects and opportunities
 - JAVA
 - SQL
 
+
+## Skills
+
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+
 ## hobbies
 - video game
 - read books
 - play basketball
+
 
