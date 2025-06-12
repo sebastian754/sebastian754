@@ -1,4 +1,5 @@
-# Hello! I'm sebastian Quality Assurance Testing 
+##🧪 Sebastián | QA Tester en formación
+¡Hola! Soy Sebastián, un apasionado por el mundo del Quality Assurance, actualmente en proceso de formación intensiva. He completado una serie de módulos teóricos y prácticos que abarcan desde testing manual hasta automatización web, API y mobile, además de fundamentos sólidos en programación con Java y herramientas de desarrollo.
 
 ## About me
 
