@@ -13,8 +13,6 @@ Hello! I'm Sebastián, a passionate Quality Assurance expert currently undergoin
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## 👨‍💻 Programming Languages & Other
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
