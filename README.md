@@ -1,6 +1,6 @@
-# 👋 Hi there , I'm Sebastián tejada 
+#              👋 Hi there , I'm Sebastián tejada 
 
-## 🚀  QA Tester | Full Stack Developer 
+##            🚀  QA Tester | Full Stack Developer 
 
 ## 👨‍💻 About Me
 
